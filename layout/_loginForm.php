@@ -2,7 +2,7 @@
 <div class="container d-flex justify-content-center align-items-center"
       style="min-height: 100vh">
       	<form class="border shadow p-3 rounded"
-      	      action="php/check-login.php" 
+      	      action="../backend/checkLogin.php" 
       	      method="post" 
       	      style="width: 450px;">
       	      <h1 class="text-center p-3">LOGIN</h1>
