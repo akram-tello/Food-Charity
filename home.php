@@ -37,7 +37,7 @@
             // include user.php file
             include ('pages/user.php');
             ?>
-			 <a href="backend/logout.php" class="btn btn-dark">Logout</a>
+			
 
         <?php } ?>
       </div>
